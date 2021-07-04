@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="210.30.97.234" id="1fb11817-1ed6-4ad6-b54d-a7ba0f153d92" port="22" nameFormat="DESCRIPTIVE" username="czy" />
+      <sshConfig authType="PASSWORD" host="210.30.97.189" id="728e2c59-8560-4ab1-8fbc-566cabba0bde" port="22" nameFormat="DESCRIPTIVE" username="yyx" />
+      <sshConfig authType="PASSWORD" host="210.30.96.130" id="4bc4dddc-1bb0-4fc6-9fd5-5937e264de29" port="22" nameFormat="DESCRIPTIVE" username="chongzhiyu" />
+      <sshConfig authType="PASSWORD" host="117.10.202.13" id="2429c3cb-e649-4868-97e5-4f580ec9411f" port="18134" nameFormat="DESCRIPTIVE" username="user" />
+      <sshConfig authType="PASSWORD" host="210.30.96.130" id="4d8678dd-b778-4284-95e2-3a2aceda5598" port="22" nameFormat="DESCRIPTIVE" username="zh" />
+      <sshConfig authType="PASSWORD" host="210.30.96.139" id="92e0bd1f-ffd7-4eae-8053-26a951bcd30a" port="22" nameFormat="DESCRIPTIVE" username="yyx" />
+      <sshConfig authType="PASSWORD" host="210.30.96.130" id="590216cb-01b6-4d80-982d-23278ae3e899" port="22" nameFormat="DESCRIPTIVE" username="yyx" />
+      <sshConfig authType="PASSWORD" host="210.30.97.189" id="2bed15db-51dc-4648-b2ee-0d68304029b6" port="22" nameFormat="DESCRIPTIVE" username="czy" />
+      <sshConfig authType="PASSWORD" host="210.30.96.139" id="2b026fd8-fd6d-43f8-a861-6a437a92aaf3" port="22" nameFormat="DESCRIPTIVE" username="czy" />
+    </configs>
+  </component>
+</project>

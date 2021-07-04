@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3b05d60b-34ae-4a39-ad46-df90c67186ba" name="czy234">
+        <fileTransfer rootFolder="/data1/czy" accessType="SFTP" host="210.30.97.234" port="22" sshConfigId="1fb11817-1ed6-4ad6-b54d-a7ba0f153d92" sshConfig="czy@210.30.97.234:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="70dda963-b20c-486b-ad68-ad2692bbfea0" name="yyx189">
+        <fileTransfer rootFolder="/data/yyx" accessType="SFTP" host="210.30.97.189" port="22" sshConfigId="728e2c59-8560-4ab1-8fbc-566cabba0bde" sshConfig="yyx@210.30.97.189:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d4a867c6-33ce-4707-8a65-d1c2ac7cc838" name="czy130">
+        <fileTransfer rootFolder="/data/" accessType="SFTP" host="210.30.96.130" port="22" sshConfigId="4bc4dddc-1bb0-4fc6-9fd5-5937e264de29" sshConfig="chongzhiyu@210.30.96.130:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="deebc96b-1842-48ff-b983-ef4f472f8393" name="user117">
+        <fileTransfer rootFolder="/home/user" accessType="SFTP" host="117.10.202.13" port="18134" sshConfigId="2429c3cb-e649-4868-97e5-4f580ec9411f" sshConfig="user@117.10.202.13:18134 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0583ec53-0e38-4378-b7a2-94b9bd4db0d6" name="czy189">
+        <fileTransfer rootFolder="/data1" accessType="SFTP" host="210.30.97.189" port="22" sshConfigId="2bed15db-51dc-4648-b2ee-0d68304029b6" sshConfig="czy@210.30.97.189:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="38fb29b6-9d33-41b7-8f25-1fd5b1ba9261" name="zh130">
+        <fileTransfer rootFolder="/data/zh" accessType="SFTP" host="210.30.96.130" port="22" sshConfigId="4d8678dd-b778-4284-95e2-3a2aceda5598" sshConfig="zh@210.30.96.130:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f4d3ea3d-256a-4d29-9e9c-d16a6cd97b38" name="yyx139">
+        <fileTransfer rootFolder="/data2/czy" accessType="SFTP" host="210.30.96.139" port="22" sshConfigId="92e0bd1f-ffd7-4eae-8053-26a951bcd30a" sshConfig="yyx@210.30.96.139:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4a99f0ab-1a94-4b1e-9596-4cfbd36d7261" name="yyx130">
+        <fileTransfer rootFolder="/data/yyx" accessType="SFTP" host="210.30.96.130" port="22" sshConfigId="590216cb-01b6-4d80-982d-23278ae3e899" sshConfig="yyx@210.30.96.130:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7641f45d-4af0-4bb3-94ad-dacc4137f664" name="czy139">
+        <fileTransfer rootFolder="/data2/chongzhiyu" accessType="SFTP" host="210.30.96.139" port="22" sshConfigId="2b026fd8-fd6d-43f8-a861-6a437a92aaf3" sshConfig="czy@210.30.96.139:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
