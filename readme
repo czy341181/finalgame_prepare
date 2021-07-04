@@ -1,33 +1,5 @@
 
 
-##################
-比赛发放数据
-
-################train##################
-|-- train
-|   |-- optical
-|       |-- 1_2.tif
-|   |-- sar
-|       |-- 1_sar_2.tif
-|   |-- label
-|       |-- 1_sar_2.txt     eg. 1_2.tif 1_sar_2.tif 196 28
-|   |-- img_list_path.txt
-eg. 850
-    2 2_sar_1.tif 2_1.tif (类别  sar_path  optical_path)
-
-
-################test######################
-|-- test
-|   |-- optical
-|       |-- 1_2.tif
-|   |-- sar
-|       |-- 1_sar_2.tif
-|   |-- img_list_path.txt
-eg. 850
-    2 2_sar_1.tif 2_1.tif (类别  sar_path  optical_path)
-
-
-
 第一步：
 挑选验证集 （prepare + formal + final）
 
@@ -48,8 +20,6 @@ python rotate.py
 然后修改create_txt，用下面一个main
 做所有数据的train.txt
 
-
-###########################
 
 
 
