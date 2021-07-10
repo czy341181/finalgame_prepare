@@ -3,7 +3,7 @@ This project is about the game of East Wind in Beijing.
 
 ## Data Prepare
 
-###第一步：
+### 第一步：
 挑选验证集 （prepare + formal + final）
 
 1.先将final的train数据移到 './data/course3finalData/train' 下面
@@ -17,7 +17,7 @@ python create_txt.py
 然后运行 python move2val.py  将挑选的数据移除 train目录，到一个新的目录val中，便于可视化。
 
 
-###第二步，将训练数据做旋转数据增强
+### 第二步，将训练数据做旋转数据增强
 python rotate.py
 
 然后修改create_txt，用下面一个main
